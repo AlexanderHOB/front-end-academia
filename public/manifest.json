@@ -1,0 +1,20 @@
+{
+  "name": "aula-virtual",
+  "short_name": "aula-virtual",
+  "icons": [
+    {
+      "src": "/img/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#4DBA87",
+  "theme_color": "#4DBA87"
+}
